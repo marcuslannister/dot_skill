@@ -2,6 +2,10 @@
 
 All notable changes to Dot Skill will be documented in this file.
 
+## Unreleased
+
+- Added a privacy-filtered macOS OpenUsage bridge with two rotating Claude and Codex Canvas dashboards, Keychain credentials, stale-data retention, and a ten-minute LaunchAgent.
+
 ## 0.2.0 - 2026-08-20
 
 - Added the shared `dot_mcp` Python runtime with one Dot. client and Canvas validator.

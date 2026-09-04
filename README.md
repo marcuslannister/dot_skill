@@ -127,6 +127,8 @@ Restart your agent after installation.
 2. **Get your device ID**: Follow the [official documentation](https://dot.mindreset.tech/docs/service/open/get_device_id)
 3. **Start using the API**: See [Device API Reference](skills/dot-device-openapi/references/api_reference.md) for endpoints and [Canvas windowData Reference](skills/dot-canvas-designer/references/windowdata.md) for Canvas layout design
 
+For a local macOS usage dashboard, see the optional [OpenUsage Canvas bridge](docs/openusage-bridge.md).
+
 ## Agent Platform Compatibility
 
 | Platform | Status | Integration path |

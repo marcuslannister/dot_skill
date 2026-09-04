@@ -23,6 +23,7 @@ Repository = "https://github.com/MindReset/dot_skill"
 
 [project.scripts]
 dot-mcp = "dot_mcp.cli:main"
+dot-openusage-bridge = "dot_mcp.openusage_bridge:main"
 
 [tool.setuptools.packages.find]
 include = ["dot_mcp*"]
