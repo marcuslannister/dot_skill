@@ -76,7 +76,7 @@ launchctl bootstrap "gui/$(id -u)" \
   "$HOME/Library/LaunchAgents/tech.mindreset.dot.openusage-bridge.plist"
 ```
 
-The LaunchAgent runs once after login and then every ten minutes. It does not
+The LaunchAgent runs once after login and then every two minutes. It does not
 control Canvas rotation and does not retry rapidly. Failed sources retain
 last-good values and mark only the affected provider stale. Failed Dot writes
 retry at the next scheduled run.
