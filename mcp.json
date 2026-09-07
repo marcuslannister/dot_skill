@@ -4,8 +4,9 @@
       "type": "stdio",
       "command": "uvx",
       "args": [
+        "--no-managed-python",
         "--from",
-        "git+https://github.com/MindReset/dot_skill.git",
+        "git+https://github.com/marcuslannister/dot_skill.git",
         "dot-mcp"
       ]
     }
